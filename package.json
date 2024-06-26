@@ -8,5 +8,8 @@
   "private": "true",
   "type": "module",
   "author": "Beibei Yang",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
 }
