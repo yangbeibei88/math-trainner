@@ -1,0 +1,12 @@
+{
+  "name": "math-trainer",
+  "version": "1.0.0",
+  "description": "A simple tool to train your math skills",
+  "bin": {
+    "math-trainer": "bin/mathTrainer.js"
+  },
+  "private": "true",
+  "type": "module",
+  "author": "Beibei Yang",
+  "license": "ISC"
+}
